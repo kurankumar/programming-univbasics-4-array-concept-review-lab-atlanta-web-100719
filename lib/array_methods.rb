@@ -37,8 +37,10 @@ def find_min_value(array)
   counter3 = 0 
   
   while counter3 < array.length do
-    if array[counter3] == 0 
-      smallest_value = arra
+    if counter3 == 0 
+      smallest_value = array[counter3]
+    elsif
+      
   
   
   
