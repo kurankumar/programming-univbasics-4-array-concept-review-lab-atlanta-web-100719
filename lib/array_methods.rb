@@ -40,7 +40,9 @@ def find_min_value(array)
     if counter3 == 0 
       smallest_value = array[counter3]
     else
-      if
+      if array[counter3] < smallest_value
+        smallest_value = array[counter3]
+        
         
       
   
