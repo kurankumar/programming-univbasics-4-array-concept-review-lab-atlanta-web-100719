@@ -33,6 +33,7 @@ end
 
 def find_min_value(array)
   
+  smallest_value = 0 
   counter3 = 0 
   
   
