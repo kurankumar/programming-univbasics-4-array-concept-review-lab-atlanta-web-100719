@@ -41,6 +41,7 @@ def find_min_value(array)
       smallest_value = array[counter3]
     else
       if
+        
       
   
   
