@@ -26,9 +26,7 @@ def find_max_value(array)
      largest_value = array[counter2]
      counter2 = counter2 + 1 
      
-   else
-     counter2 = counter2 + 1 
-   end
+   
 end
 
 
