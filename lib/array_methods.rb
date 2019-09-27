@@ -26,10 +26,11 @@ def find_max_value(array)
      largest_value = array[counter2]
      counter2 = counter2 + 1 
      
-   
+   end
+   largest_value
 end
 
 
 def find_min_value(array)
-  # Add your solution here
+  
 end
