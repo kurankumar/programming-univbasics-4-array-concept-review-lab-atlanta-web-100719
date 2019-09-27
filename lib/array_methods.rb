@@ -39,7 +39,8 @@ def find_min_value(array)
   while counter3 < array.length do
     if counter3 == 0 
       smallest_value = array[counter3]
-    elsif
+    else
+      if
       
   
   
